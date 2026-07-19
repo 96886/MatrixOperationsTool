@@ -1,0 +1,24 @@
+Matrix Operations Tool
+A simple interactive command-line application built with Python and NumPy that lets users input matrices and perform common linear algebra operations with instant, structured results.
+
+✨ Features
+➕ Matrix Addition — add two matrices of the same dimensions
+➖ Matrix Subtraction — subtract two matrices of the same dimensions
+✖️ Matrix Multiplication — multiply matrices using numpy.matmul
+🔄 Matrix Transpose — flip rows and columns of any matrix
+🔢 Determinant Calculation — compute the determinant of square matrices
+🖥️ Interactive Menu — clean, looped CLI interface for continuous use
+⚠️ Input Validation — checks matrix dimensions before performing operations
+🛠️ Built With
+Python 3
+NumPy
+🚀 How to Run
+pip install numpy
+python matrix_operations.py
+📚 Learning Outcomes
+This project demonstrates:
+
+Working with NumPy arrays and linear algebra functions
+Handling user input dynamically
+Building menu-driven console applications in Python
+Applying dimensional validation for matrix operations
